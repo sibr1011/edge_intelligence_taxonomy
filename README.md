@@ -6,6 +6,7 @@ This repo contains all the relevant graphs and .xlsx, .csv and .R scripts for th
 
 - final_summary.xlsx/.csv contains all the included papers for concept map and taxonomy
 - literature_process.xlsx/.csv contains all reasons for the exclusion and inclusion of the papers in literature review process (preprocessing/duplicates/..)
+- iterationen.xlsx all taxonomy iterations (divided by double strokes)
 
 
 sibr1011
